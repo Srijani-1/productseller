@@ -9,6 +9,6 @@ This is a FastApi based backend project for managing product listings and seller
 
 ## Tech Stack
 - **Backend**: FastAPI
-- **Database**: PostgreSQL / SQLite
+- **Database**: SQLite
 - **Authentication**: Password hashing with bcrypt
 - **ORM**: SQLAlchemy
